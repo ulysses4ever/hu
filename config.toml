@@ -1,3 +1,6 @@
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "contrast-hugo"
+
+[params]
+  minimal = false
